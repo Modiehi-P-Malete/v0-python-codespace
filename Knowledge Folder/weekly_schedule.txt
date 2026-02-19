@@ -1,0 +1,7 @@
+Weekly Programme Schedule
+
+Monday – Python Basics (15:00–17:00)
+Tuesday – Web Development (15:00–17:00)
+Wednesday – Robotics Lab (14:00–16:00)
+Thursday – Cybersecurity Workshop (15:00–17:00)
+Friday – Open Lab Session (14:00–18:00)

@@ -1,0 +1,7 @@
+Available Courses
+
+- Python Programming
+- Web Development (HTML, CSS, JS)
+- Database Fundamentals
+- Introduction to Cybersecurity
+- Arduino & Robotics
